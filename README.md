@@ -5,13 +5,16 @@ Check the attached document for more infomation.
 
 Contact me if you are interested.
 
-## Coming soon to Play Store and the App Store
+## Coming soon to the Play Store and the App Store
 
 <img src="adfence.png">
 
 ## Author
 
 [Ranjith D](https://github.com/Ranjith-D)
+
 Sanjay C
+
 R Sriram
+
 Rakshith Gowda
