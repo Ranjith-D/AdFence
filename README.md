@@ -1,7 +1,7 @@
 # AdFence
 A location based geofencing application for product advertisement.
 
-Check the attached document for more infomation.
+Check the attached document for more information.
 
 Contact me if you are interested.
 
