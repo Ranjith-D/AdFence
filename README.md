@@ -9,7 +9,7 @@ Contact me if you are interested.
 
 ## Coming soon to the Play Store and the App Store
 
-The application is under construction will be out very soon!
+The application is under development will be out very soon!
 
 <img src="adfence.png">
 
