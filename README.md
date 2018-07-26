@@ -1,6 +1,8 @@
 # AdFence
 A location based geofencing application for product advertisement.
 
+Helping small businesses and shops to scale up their visibility and discoverability by the right audience.
+
 Check the attached document for more information.
 
 Contact me if you are interested.
@@ -17,4 +19,4 @@ Sanjay C
 
 R Sriram
 
-Rakshith Gowda
+
